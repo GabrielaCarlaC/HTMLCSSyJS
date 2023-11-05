@@ -1,0 +1,41 @@
+/* NAVBAR */
+.navbar-nav :hover {
+  background: lightgray;
+  border-radius: 30px;
+  padding: 5px;
+  transition: 2s;
+}
+
+.collapse {
+  display: flex;
+  justify-content: right;
+}
+
+/* CAROUSEL */
+.carousel-item img {
+  filter: brightness(50%);
+}
+
+/* BsAs Octubre*/
+.card-text {
+  font-size: small;
+}
+
+.rec {
+  font-size: small;
+}
+
+#textarea {
+ resize: none;
+ height: 100px;
+ }
+
+#textarea::placeholder {
+  text-align: start;
+  font-size: larger;
+ }
+
+#oradores, #conviertete, #lugar {
+  scroll-margin-top: 90px
+}
+

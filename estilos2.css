@@ -1,0 +1,43 @@
+/* NAVBAR */
+.navbar-nav :hover {
+  background: lightgray;
+  border-radius: 30px;
+  padding: 5px;
+  transition: 2s;
+}
+
+.collapse {
+  display: flex;
+  justify-content: right;
+}
+
+.doc {
+  font-size: small;
+}
+
+.porc {
+  font-weight: bold;
+}
+
+.titulo {
+  font-size: large;
+  font-weight: bold;
+}
+
+.btn {
+  width: 49%;
+}
+
+#precioFinal {
+  background-color: rgb(180, 204, 250);
+}
+
+.cant-cate {
+  text-align: left;
+}
+
+
+.nav-link:hover {
+   background-color: rgb(10, 67, 105);
+  border-radius: 30px;
+}
